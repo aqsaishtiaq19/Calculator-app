@@ -1,20 +1,20 @@
-Calculator App
+Calculator App:
 A simple and responsive calculator built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations with a clean and user-friendly interface.
 
 
-Features
+Features:
 Basic operations: +, −, ×, ÷
 Instant calculation
 Responsive design
 Simple and clean UI
 
-Tech Stack
+Tech Stack:
 HTML
 CSS
 JavaScript
 
-How to Use
+How to Use:
 Download or clone the repository
 Open index.html in your browser
 Start calculating
