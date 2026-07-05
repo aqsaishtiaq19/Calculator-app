@@ -30,7 +30,8 @@ A simple, responsive calculator built with **HTML, CSS, and JavaScript**. It per
 
 ## 📸 Preview
 
-*(Add a screenshot of the calculator here)*
+(<img width="455" height="434" alt="image" src="https://github.com/user-attachments/assets/a9017890-a0ff-484d-9ea2-b89e01b5bfcb" />
+)
 
 ## 📄 License
 
